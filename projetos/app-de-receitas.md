@@ -27,3 +27,7 @@ O objetivo deste app de receitas é ajudar o usuário a gerenciar receitas de um
 
 - [CRUD: o que é este conceito no Desenvolvimento de Sistemas](https://angelopublio.com.br/blog/crud)
 - [O que é padrão MVC? Entenda arquitetura de softwares!](https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc)
+
+## Exemplos
+
+- [App de Receitas com Express.js](https://github.com/inolopesm/receitas-app.git)
