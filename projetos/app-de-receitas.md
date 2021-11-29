@@ -16,9 +16,14 @@ O objetivo deste app de receitas é ajudar o usuário a gerenciar receitas de um
 - [ ] Usuário poderá clicar em um botão dentro do cartão de detalhamento de uma receita para exibir um cartão contendo um formulário para editar uma receita
 - [ ] Usuário poderá clicar em um botão dentro do cartão de detalhamento de uma receita para exibir um cartão com um questionamento se deve excluir ou não a receita, onde, se sim, deverá excluir a receita.
 
-## Funcionalidades Bônus
+## Funcionalidades bônus
 
 - [ ] Usuário poderá ver uma foto exibindo como o item parece depois de ser preparado
 - [ ] Usuário poderá buscar por receitas pelo seu título através de uma caixa de busca
 - [ ] Usuário poderá ver uma mensagem de aviso caso não tenha nenhuma receita tanto na listagem total como na listagem de busca
 - [ ] Usuário poderá interagir com uma paginação na listagem de títulos de receitas
+
+## Links úteis
+
+- [CRUD: o que é este conceito no Desenvolvimento de Sistemas](https://angelopublio.com.br/blog/crud)
+- [O que é padrão MVC? Entenda arquitetura de softwares!](https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc)
